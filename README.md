@@ -10,7 +10,7 @@ Password : Admin@2020
 
 Credentials of HR
 User Id : HR@gmail.com
-Password : Hr@gmail.com
+Password : Hr@2020
 
 The Roles are also pre-generated.
 Only Admin and HR can Create, Edit, Delete another Entity that is Employee.
